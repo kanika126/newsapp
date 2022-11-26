@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Brazil's Bolsonaro to break silence after election defeat",
+    "description": "Some supporters are refusing to recognise the result, and have set-up roadblocks across the country.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-63451860",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13489/production/_127458987_a8306760c8e83ba715777272427c0f849657e6680_0_5472_36481000x667.jpg",
+    "publishedAt": "2022-11-01T16:52:21.4025657Z",
+    "content": "Brazil's far-right president, Jair Bolsonaro, is expected to speak in the coming hours - breaking the silence he has maintained since being defeated in Sunday's presidential election. \r\nTension has r… [+3442 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Tell me this ain't true' - reaction as rapper Takeoff shot dead",
+    "description": "Takeoff, of hip hop trio Migos, was shot dead at a bowling alley in Houston, Texas, in the early hours of the morning.",
+    "url": "http://www.bbc.co.uk/news/live/63471396",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2022-11-01T14:37:33.9333293Z",
+    "content": "Takeoff's last post on Instagram, posted less than 19 hours ago, has received an outpouring of comments from fans and artists well-known in the American rapping scene.\r\nHe'd posted a teaser of his la… [+681 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Takeoff: Migos rapper shot dead in Houston, reports say",
+    "description": "The star, whose group found fame with hits like Bad and Boujee and Stir Fry, was 28 years old.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-63470684",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15942/production/_127468388_migos_gettyimages-1325805389.jpg",
+    "publishedAt": "2022-11-01T13:37:25.0425749Z",
+    "content": "Rapper Takeoff, from the chart-topping band Migos, has been shot and killed in Houston, according to US media reports.\r\nPolice told Variety magazine the rapper was killed at a bowling alley in where … [+1556 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US court blocks Penguin merger with Simon & Schuster",
+    "description": "US District Judge Florence Pan said the deal could \"substantially\" lessen competition in the market.",
+    "url": "http://www.bbc.co.uk/news/business-63466582",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85A8/production/_127461243_books.jpg",
+    "publishedAt": "2022-11-01T12:52:23.7925926Z",
+    "content": "A US court has blocked a $2.2bn (£1.9bn) merger between the world's largest book publisher Penguin Random House and its rival Simon &amp; Schuster.\r\nIn a brief order on Monday, US District Judge Flor… [+2980 chars]"
+    }   
+    ]
+    }
